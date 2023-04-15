@@ -1,1 +1,3 @@
 # is-a.team-site
+
+IN CASE OF THE SITE BEING DOWN FOR YOU CHANGE THE DNS TO 1.1.1.1 and 8.8.8.8
